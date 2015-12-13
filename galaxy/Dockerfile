@@ -132,6 +132,7 @@ GALAXY_CONFIG_SANITIZE_ALL_HTML=False \
 GALAXY_CONFIG_TOOLFORM_UPGRADE=True \
 GALAXY_CONFIG_WELCOME_URL=$GALAXY_CONFIG_DIR/web/welcome.html \
 GALAXY_CONFIG_OVERRIDE_DEBUG=False \
+GALAXY_CONFIG_ENABLE_BETA_WORKFLOW_MODULES=True \
 # Define the default postgresql database path
 PG_DATA_DIR_DEFAULT=/var/lib/postgresql/9.3/main/ \
 PG_DATA_DIR_HOST=/export/postgresql/9.3/main/ \
